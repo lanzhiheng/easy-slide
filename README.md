@@ -1,4 +1,4 @@
-# Easy Slider
+# Easy Slide
 
 用React实现的一个滑动删除组件
 
